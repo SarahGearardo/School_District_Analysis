@@ -5,7 +5,8 @@ The purpose of this project was to remove ninth grader scores at Thomas High Sch
 
 ## Results</br>
 
-### How is the disctirct summary affected?
+### How are the district and school summaries affected?
+Both the district and school summaries are affected because a chunk of students 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</br>
 Removing the ninth graders' math and reading scores affect Thomas High School's performace relative to other schools by boosting the passing math, reading and overall percentages by a significant amount.</br>
@@ -18,4 +19,11 @@ After the ninth graders were removed, the overall passing percentage for Thomas 
 
 ![Thomas School After](https://user-images.githubusercontent.com/94804527/150654189-7b82a36a-a6de-4dc0-875f-1a606dcacfae.png)
 
+### How does replacing the ninth-grade scores affect the following:
 
+* Math and Reading Scores by Grade</br>
+
+* Scores by School Spending
+
+* Scores by School Size
+* Scores by School Type
