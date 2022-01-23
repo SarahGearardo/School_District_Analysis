@@ -15,7 +15,7 @@ Before the ninth graders were removed, Thomas High Schools overall passing perce
 
 ![Thomas High School Before](https://user-images.githubusercontent.com/94804527/150654092-74e76e7c-d162-4cd0-b3a7-8cbcff847a3b.png)</br>
 
-After the ninth graders were removed, the overall passing percentage for Thomas high was boosted, bringing them to the second best performing school with 90.63% passing overall.</br>
+After the 10th, 11th and 12th grades were recalculated, the overall passing percentage for Thomas high was boosted, bringing them to the second best performing school with 90.63% passing overall.</br>
 
 ![Thomas School After](https://user-images.githubusercontent.com/94804527/150654189-7b82a36a-a6de-4dc0-875f-1a606dcacfae.png)
 
