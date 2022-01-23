@@ -25,7 +25,6 @@ After the ninth graders were removed, the overall passing percentage for Thomas 
 They affect the math and reading scores by grade because Thomas High School will not be represented in the data since they were cut out of the data. The ninth grader data will show nothing compared to the other schools, but 10th, 11th and 12th grads will remain un-affected.</br>
 
 * Scores by School Spending</br>
-
 Having only the 10th, 11th and 12th grades represented by in Thomas High School in the spending category would have overall jumped the average as overall, the spending range of $630 - $644 did poorly. Only one other school besides the adjusted Thomas High School stats had a 90% overall average, but the other three schools had barely over 50% overall passing percentages. </br>
 
 ![Spending](https://user-images.githubusercontent.com/94804527/150658554-15212a7f-184e-475d-9933-2da1f9fc2239.png)</br>
@@ -41,5 +40,5 @@ The scores by school type wouldn't be affected that much as Thomas High School i
 ![Charter](https://user-images.githubusercontent.com/94804527/150659492-916ed786-4e49-4f8b-9fbf-109fb5fd4c19.png)</br>
 
 ## Summary</br>
-Overall the taking out the ninth grade data in some of the data would have not changed it by much as reflected in the spending, school size and school type data. Thomas High School is already grouped in with above-average buckets, so not including ninth grade data would not change the data much. The only statistic that was way blown out of proportion due to ninth-graders not being included is the top performing schools category. Thomas High School would not have been in the top five performing schools, however, with the data fixed, Thomas High School jumped to the second in the top five performing schools. I would suggest that Maria and the school board try to get to the bottom of the academin dishonesty as I would be hesitnt to use this data with such a big group being un-represented. 
+Overall the taking out the ninth grade data in some of the data would have not changed it by much as reflected in the spending, school size and school type data. Thomas High School is already grouped in with above-average buckets, so not including ninth grade data would not change the data much. The only statistic that was way blown out of proportion due to ninth-graders not being included is the top performing schools category. Thomas High School would not have been in the top five performing schools, however, with the data fixed, Thomas High School jumped to the second in the top five performing schools. I would suggest that Maria and the school board try to get to the bottom of the academin dishonesty as I would be hesitnt to use this data with such a big group being unrepresented. 
 
