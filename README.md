@@ -6,7 +6,7 @@ The purpose of this project was to remove ninth grader scores at Thomas High Sch
 ## Results</br>
 
 ### How are the district and school summaries affected?
-Both the district and school summaries are affected because a chunk of students 
+Both the district and school summaries are affected because a chunk of students are not represented in the data. We had to take out the math and reading scores for ninth graders at Thomas High School due to acedemtic dishonesty. This jumped Thomas High Schools overall passing percentage from ~60% to 90%. As stated below, this affected some areas of the data, while others would remain only slightly changed. 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?</br>
 Removing the ninth graders' math and reading scores affect Thomas High School's performace relative to other schools by boosting the passing math, reading and overall percentages by a significant amount.</br>
